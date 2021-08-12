@@ -14,6 +14,7 @@
 		0447F08E26C51F5700E1080D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0447F08D26C51F5700E1080D /* Assets.xcassets */; };
 		0447F09126C51F5700E1080D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0447F08F26C51F5700E1080D /* LaunchScreen.storyboard */; };
 		0447F09926C5212300E1080D /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0447F09826C5212300E1080D /* TableViewCell.swift */; };
+		0447F09B26C5225500E1080D /* SwitchViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0447F09A26C5225500E1080D /* SwitchViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		0447F09026C51F5700E1080D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0447F09226C51F5700E1080D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0447F09826C5212300E1080D /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
+		0447F09A26C5225500E1080D /* SwitchViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwitchViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				0447F08626C51F5300E1080D /* SceneDelegate.swift */,
 				0447F08826C51F5300E1080D /* TableViewController.swift */,
 				0447F09826C5212300E1080D /* TableViewCell.swift */,
+				0447F09A26C5225500E1080D /* SwitchViewCell.swift */,
 				0447F08A26C51F5300E1080D /* Main.storyboard */,
 				0447F08D26C51F5700E1080D /* Assets.xcassets */,
 				0447F08F26C51F5700E1080D /* LaunchScreen.storyboard */,
@@ -142,6 +145,7 @@
 			files = (
 				0447F08926C51F5300E1080D /* TableViewController.swift in Sources */,
 				0447F09926C5212300E1080D /* TableViewCell.swift in Sources */,
+				0447F09B26C5225500E1080D /* SwitchViewCell.swift in Sources */,
 				0447F08526C51F5300E1080D /* AppDelegate.swift in Sources */,
 				0447F08726C51F5300E1080D /* SceneDelegate.swift in Sources */,
 			);
